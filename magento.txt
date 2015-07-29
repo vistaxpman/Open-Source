@@ -1,0 +1,21 @@
+
+== 29 - 07 - 2015
+http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html
+http://www.fromdev.com/2014/07/best-magento-tutorials-ebooks-pdf.html
+https://github.com/aleron75/mageres
+http://code.tutsplus.com/articles/magento-theme-development-an-introduction--cms-21036
+http://code.tutsplus.com/articles/magento-theme-development-layout-files--cms-21037
+http://magento.stackexchange.com/questions/11608/can-anyone-suggest-tutorial-for-creating-own-magento-theme
+https://blog.udemy.com/psd-to-magento/
+http://tutorialmagento.com/magento-theme-development-tutorial-for-designer-part-1
+https://www.packtpub.com/web-development/learning-magento-theme-development
+http://leveluptuts.com/tutorials/magento-community-tutorials/27-theming-magento-3-creating-your-own-theme
+http://www.slideshare.net/Magestorecom/how-to-create-theme-in-magento-2-part-1
+https://github.com/magento/magento2
+http://magento.com/developers/magento2
+http://www.sitepoint.com/an-introduction-to-magento-themes/
+http://tutorialmagento.com/magento-theme-development-tutorial-for-designer-part-1
+http://www.magentovietnam.com/
+http://www.magentovietnam.com/threads/huong-dan-cai-dat-magento2.4486/
+http://code.tutsplus.com/tutorials/magento-for-designers-part-4--net-12104
+http://code.tutsplus.com/series/magento-for-designers--net-19048
