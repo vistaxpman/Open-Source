@@ -1,0 +1,118 @@
+=============== 18 - 09 - 2015
++ Web service with Java
+https://jersey.java.net/documentation/latest/getting-started.html
+
++ Spring and Tiles
+https://www.google.com/search?q=Spring+mvc+4+%2B+titles+3&ie=utf-8&oe=utf-8#q=Spring+MVC+4+Tiles+3
+https://dzone.com/articles/spring-mvc-tiles-3-integration
+http://stackoverflow.com/questions/25260469/how-to-integrate-spring-4-with-apache-tiles-3
+http://stackoverflow.com/questions/25177974/tiles-3-and-spring-mvc-4-error-404
+https://richardbarabe.wordpress.com/2014/02/02/apache-tiles-3-integration-with-spring-mvc/
+http://www.codingpedia.org/ama/spring-mvc-and-apache-tiles-integration-example/
+http://www.techyari.in/2015/06/spring-mvc-and-apache-tiles-3-integration-tutorial-with-example.html
+http://frameworkonly.com/spring-mvc-4-tiles-3-integration/
+http://springbybhimu.blogspot.com/2015/01/spring-4-and-tiles-3-programmatic.html
+http://devjav.com/spring-mvc-apache-tiles-3-integration/
+
++ Cms for Spring
+https://github.com/riotfamily/riot
+http://www.javaworld.com/article/2078034/spring-framework/mastering-spring-mvc.html
+http://docs.spring.io/docs/Spring-MVC-step-by-step/
+https://dotcms.com/download/
+
++ Add two variables into enviroment
+JAVA_HOME
+C:\Program Files\Java
+
+JRE_HOME
+C:\Program Files\Java\jdk1.7.0_51
+
+
+
++ Spring + Hibernate + Oracle
+https://codeyard.wordpress.com/2012/07/31/spring-hibernate-end-to-end-integration-using-maven-spring-mvc-jsp-oracle11g-a-step-by-step-guide/
+http://dhara-script.com/data10/2015/08/09/java-hibernate-saving-entity-not-working/
+http://students.kiv.zcu.cz/wiki/SpringHibernateMavenEclipse/HomePage
+http://chinthasjavablog.blogspot.com/2014/01/spring-mvc-hibernate-integration-login.html
+http://www.deepakgaikwad.net/index.php/2009/03/14/hibernate-example-on-eclipse-and-oracle.html
+http://oraclejavazone.blogspot.com/2014/05/spring-file-upload-and-saving-blob.html
+http://www.java4s.com/hibernate/hibernate-one-to-one-mapping-using-annotations/
+http://javarevisited.blogspot.com/2012/06/jdbc-database-connection-pool-in-spring.html
+http://www.jijokjose.com/programming-2/java/employee-registration-using-spring-mvc/
+http://solvedstack.com/questions/lazyinitializationexception-in-jpa-and-hibernate
+http://www.javabeat.net/pagination-using-hibernate-and-jsp/
+http://bbs.dubboclub.net/read-36.html
+
+
++ Keyword
+Building a RESTful Web Service - Spring
+Build a REST API with Spring 4
+Spring MVC 4.0 RESTFul Web Services
+Spring Restful Web Services Example
+
+	- Find
+	http://avaldes.com/spring-restful-web-service-example-with-json-and-jackson-using-spring-tool-suite/
+	https://dzone.com/articles/crud-using-spring-mvc-40
+	http://javaonlineguide.net/2015/07/spring-4-mvc-restful-webservice-example-without-maven.html
+	http://krams915.blogspot.com/2011/02/spring-3-rest-web-service-provider-and.html
+	https://netbeans.org/kb/71/websvc/rest.html?print=yes
+	http://crunchify.com/create-very-simple-jersey-rest-service-and-send-json-data-from-java-client/
+	http://www.petrikainulainen.net/programming/spring-framework/creating-a-rest-api-with-spring-boot-and-mongodb/
+	http://ryanjbaxter.com/2014/12/17/building-rest-apis-with-spring-boot/
+	http://www.javabeat.net/restful-springboot-mongodb/
+	https://www.airpair.com/java/posts/spring-streams-memory-efficiency
+	http://www.javatips.net/blog/2014/03/spring-mvc-4-rest-example
+	https://malalanayake.wordpress.com/2014/06/27/spring-security-on-rest-api/
+	http://rest.elkstein.org/2008/02/using-rest-in-java.html
+	http://xpadro.blogspot.com/2014/01/migrating-spring-mvc-restful-web.html
+	https://stormpath.com/blog/spring-mvc-rest-exception-handling-best-practices-part-2/
+	http://blog.khmelyuk.com/2009/02/spring-mvc-helps-to-build-restful-web.html
+	
+
+
+http://www.concretepage.com/spring-4/spring-4-rest-web-service-json-example-tomcat
+http://www.journaldev.com/2552/spring-restful-web-service-example-with-json-jackson-and-client-program
+http://kotlinlang.org/docs/tutorials/spring-boot-restful.html
+http://howtodoinjava.com/2015/02/20/spring-rest-hello-world-xml-example/
+http://www.youtube.com/watch?v=1Sf57jskoNM
+http://www.ibm.com/developerworks/library/wa-spring3webserv/
+http://www.programming-free.com/2014/01/spring-mvc-40-restful-web-services.html
+http://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-4-rest-hello-world-example/
+http://websystique.com/springmvc/spring-4-mvc-rest-service-example-using-restcontroller/
+http://stackoverflow.com/questions/29416804/creating-spring-rest-services-without-using-spring-boot
+http://www.beingjavaguys.com/2014/08/spring-restful-web-services.html
+http://www.baeldung.com/2011/10/25/building-a-restful-web-service-with-spring-3-1-and-java-based-configuration-part-2/
+http://www.tutorialspoint.com/listtutorial/Spring-MVC-40-RESTFul-Web-Services-Simple-Example/4731
+http://www.leveluplunch.com/java/tutorials/014-post-json-to-spring-rest-webservice/
+http://www.pretechsol.com/2013/08/spring-restful-web-services-example.html#.VfuuJH2_B-I
+http://www.hascode.com/2015/07/integrating-swagger-into-a-spring-boot-restful-webservice-with-springfox/
+http://www.networkedassets.com/configuring-spring-security-for-a-restful-web-services/
+http://www.lessonslab.com/building-restful-webservices-using-apache-cxf/150/
+http://getj2ee.over-blog.com/article-tutorial-rest-with-spring-mvc-and-maven-97283997.html
+http://www.codingpedia.org/ama/restful-web-services-example-in-java-with-jersey-spring-and-mybatis/
+http://blog.zenika.com/index.php?post/2013/01/15/REST-Web-Services-testing-with-Spring-MVC
+http://kielczewski.eu/2014/04/developing-restful-web-service-with-spring-boot/
+http://www.java2blog.com/2013/04/restful-web-service-tutorial.html
+http://www.springbyexample.org/examples/contact-rest-services.html
+http://www.dineshonjava.com/2013/06/jax-rs-web-service-tutorial.html#.VfuuZH2_B-I
+http://briansjavablog.blogspot.com/2012/08/rest-services-with-spring.html
+http://www.aerospike.com/blog/build-restful-web-service-with-spring-boot/
+http://www.infoq.com/articles/rest-webservice-spring-boot-aerospike
+http://jnb.ociweb.com/jnb/jnbNov2010.html
+
+
+
+
+https://www.google.com.vn/?gws_rd=ssl#q=spring+restful+web+service+example&start=60
+Page 7
+
+
++ Spring 3
+http://www.javacodegeeks.com/2010/06/spring-3-restful-web-services.html
+
++ Learning Spring
+http://laptrinh.vn/d/4087-huong-dan-lap-trinh-spring-mvc-4.html
+http://laptrinh.vn/d/4058-huong-dan-su-dung-thu-vien-jstl-trong-jsp.html
+http://laptrinh.vn/d/4013-tich-hop-spring-va-mybatis-3-ket-noi-va-truy-cap-du-lieu-trong-database.html
+http://www.javatips.net/blog/2014/02/hibernate-many-to-many-relation-mapping-example
+	
