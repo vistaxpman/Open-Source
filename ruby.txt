@@ -1,0 +1,170 @@
+We are looking for a Ruby on Rails developer with experience working with AWS, Ubuntu Linux and PostgreSQL. DevOps or frontend experience a big plus.
+
+Responsibilities
+You will need to be able to develop Ruby on Rails web applications and REST APIs from scratch, including setting up and maintaining the necessary infrastructure (AWS EC2, S3, RDS, IAM).
+● Can develop and maintain Ruby on Rails application with supporting infrastructure
+● Delivers projects on time, within budget and to required quality standards
+● Works well with a team but can work independently when required
+● Interprets requirements and yields solid design specification, within existing frameworks
+● Implements efficient and effective solutions from design specifications
+● Effectively tests developed software
+● Architects/designs new solutions when required
+● Can make design decisions that ensure future scalability while taking into account current budget
+● Provides accurate estimates of the effort required to complete a task
+● Produces and maintains high quality documentation
+● Recommends and implements process improvements 
+
+
+
+
+Paul Deitel, Harvey Deitel, "Java How to Program, 9th edition"
+English | ISBN: 0132575663 | 2015 | 1536 pages | PDF | 24 MB 
+https://nitroflare.com/view/884528575481A9A/0132575663_Java.pdf
+
+
+Bruce Williams and John Athayde, "The Rails View: Creating a Beautiful and Maintainable User Experience"
+English | 2012 | ISBN-10: 1934356875 | EPUB | 264 pages | 3 MB 
+https://nitroflare.com/view/51104BE3BFAEFC5/1934356875_Rails.epub
+
+Rails 4 in Action: Revised Edition of Rails 3 in Action by Steve Klabnik
+English | 1 Oct. 2015 | ISBN: 1617291099 | 576 Pages | PDF (True) | 6.51 MB
+http://nitroflare.com/view/C69A01AC8CD6B11/Rails_4_in_Action.pdf
+
+
+Ruby on Rails Tutorial: Learn Web Development with Rails (3rd Edition) (Addison-Wesley Professional Ruby Series) by Michael Hartl
+English | May 11, 2015 | ISBN: 0134077709 | 744 Pages | AZW3/EPUB/PDF (conv) | 139 MB
+http://www.nitroflare.com/view/FDC072B18742D33
+
+Ruby on Rails 3 Tutorial: Learn Rails by Example By Michael Hartl
+English | 2010 | 576 Pages | ISBN: 0321743121 | PDF | 10,2 MB
+http://ul.to/7jc8g03e
+
+Obie Fernandez, Kevin Faustino, "The Rails 4 Way, 3rd edition"
+2014 | ISBN: 0321944275 | 880 pages | EPUB, MOBI, PDF | 9 MB 
+https://nitroflare.com/view/AE55FE3F0F353D8/0321944275.rar
+
+Sam Ruby, Dave Thomas, David Heinemeier Hansson, "Agile Web Development with Rails 4"
+2013 | ISBN: 1937785564 | 480 pages | PDF, EPUB | 18 MB 
+http://k2s.cc/file/576d74fdf1e8c/1937785564Agile.rar
+
+ Jose Valim, "Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development"
+English | ISBN: 1937785556 | 2013 | EPUB, PDF | 200 pages | 12 MB 
+http://k2s.cc/file/52e81d9b82ae8/1937785556Crafting.rar
+
+
+Eldon Alameda, "Practical Rails Projects"
+Apress (October 29, 2007) | ISBN:1590597818 | 621 pages | PDF | 14,6 Mb 
+http://depositfiles.com/files/2893892
+
+
+Beginning Rails 4 3rd Edition by Adam Gamble
+Apress | Sep 10 2013 | ISBN: 1430260343 | Pages: 328 | PDF | 4.52 MB
+http://ul.to/3z3tcg2d
+https://www.inclouddrive.com/file/RLhhxXH7aNyANfpRoPyFwQ/Apress.Beginning.Rails.4.3rd.Edition.Sep.2013.ISBN.1430260343.pdf
+http://uploadrocket.net/f4gqzwfqp1wq/Apress.Beginning.Rails.4.3rd.Edition.Sep.2013.ISBN.1430260343.pdf.html%0D%0A
+https://www.oboom.com/6CVC07S9
+
+
+Rails 4 Application Development: Hotshot By Saurabh Bhatia
+2014 | 378 Pages | ISBN: 1783286296 | EPUB, MOBI, PDF | 31 MB
+http://www.nitroflare.com/view/DB46435BC4F22AD/1783286296_Rails.epub
+http://www.nitroflare.com/view/308B7DB700CAA97/1783286296_Rails.pdf
+
+
+Bootstrap for Rails by Syed Fazle Rahman
+2015 | ISBN: 178398726X | English | 176 pages | EPUB | 9 MB 
+https://nitroflare.com/view/069D67C932A9B3F/178398726X.epub
+
+Ruby for Rails: Ruby Techniques for Rails Developers by David Black
+English | May 11, 2006 | ISBN: 1932394699 | 528 pages | PDF | 5 MB
+https://www.nitroflare.com/view/E81153C4F4D254F/1932394699.pdf
+
+
+
+Anthony Lewis, "Rails Crash Course: A No-Nonsense Guide to Rails Development"
+2014 | ISBN: 1593275722 | 296 pages | EPUB | 2 MB 
+https://www.nitroflare.com/view/4E37A4D8B60C99E/1593275722Rails.epub
+
+Rails AntiPatterns: Best Practice Ruby on Rails Refactoring By Chad Pytel, Tammer Saleh
+2010 | 400 Pages | ISBN: 0321604814 | PDF | 4 MB
+http://ul.to/jf0q3n4x
+
+
+Rails 4 Test Prescriptions: Build a Healthy Codebase By Noel Rappin
+2014 | 350 Pages | ISBN: 1941222196 | EPUB | 2 MB
+http://www.nitroflare.com/view/93C56BB9913C76A/1941222196_Rails.zip
+
+
+Rails 4 in Action (MEAP version 11) By Ryan Bigg
+2015 | 734 Pages | ISBN: 1617291099 | PDF | 7 MB
+http://www.nitroflare.com/view/CD0C3429C9D8A38/1617291099_Rails.pdf
+
+Practical REST on Rails 2 Projects (Practical Projects)
+Apress (April 28, 2008) | ISBN: 9781590599945 | English | 304 pages | PDF | 4.1 MB
+http://rapidshare.com/files/114557218/Practical_REST_on_Rails_2_Projects.rar
+
+Modular Rails: The Complete Guide to Modular Rails Applications by Thibault Denizet
+English | Apr 21, 2015 | ASIN: B00WIPNAJ8 | 186 Pages | MOBI/EPUB/PDF (conv) | 4.6 MB
+http://www.nitroflare.com/view/F8E1CA15F776109
+
+Service-Oriented Design with Ruby and Rails By Paul Dix
+2010 | 320 Pages | ISBN: 0321659368 | PDF | 4 MB
+http://www.nitroflare.com/view/ECFE0EE375ABBC9/0321659368_Service-Oriented.pdf
+
+Teamtreehouse - Build a Todo List Application with Rails 4
+http://ul.to/89u3bfwj
+http://ul.to/bf5vi3oj
+http://ul.to/3wppegqy
+
+Deploying Rails: Automate, Deploy, Scale, Maintain, and Sleep at Night By Tom Copeland, Anthony Burns
+2012 | 240 Pages | ISBN: 1934356956 | EPUB + PDF | 1 MB + 4 MB
+
+
+
+AZ Elite Publishing - Rails: Rails Programming in a day!
+English | Amazon Media EU | 2015 | EPUB | Pages 31 | ASIN: B0127BVV8Y | 0.16 Mb
+http://storbit.net/file/59L1YQC0ZO6D/
+https://nitroflare.com/view/5D22AE3684233AB/Rails__Rails_Programming_in_a_d_-_AZ_Elite_Publishing.epub
+
+Glenn Goodrich, "Rails Deep Dive"
+English | ISBN: 9780987247896, 0987247891 | 2012 | 146 pages | PDF | 4 MB 
+http://ul.to/24elz0h4
+
+Mike Clark, "Advanced Rails Recipes: 84 New Ways to Build Stunning Rails Apps"
+Pragmatic Bookshelf | 2008 | ISBN: 0978739221 | 464 Pages | PDF | 4,5 MB 
+
+Learn Ruby On Rails For Web Development: Learn Rails The Fast And Easy Way by John Elder
+English | 2015 | ISBN: 0692364218 | 214 pages | EPUB | 1 MB
+http://nitroflare.com/view/A6E104310E21A72/LearnRuby.epub
+
+
+Jump Start Rails by Andy Hawthorne
+English | ISBN: 0987467425 | 2013 | PDF/EPUB | 150 pages | 7 MB
+http://www.nitroflare.com/view/9FB1AFF1A5AC81B
+
+Enterprise Recipes with Ruby and Rails by Maik Schmidt
+English | Nov 27, 2008 | ISBN: 1934356239 | 375 Pages | PDF | 8 MB
+https://www.nitroflare.com/view/26387A87014C2ED/1934356239.pdf
+
+Enterprise Rails by Dan Chak
+English | November 3, 2008 | ISBN: 0596515200 | 352 Pages | PDF | 6 MB
+https://www.nitroflare.com/view/4A9B5F55CDD715C/0596515200.pdf
+
+Treehouse - Ruby on Rails Forms
+
+Ruby on Rails 4 Essential Training
+
+Poweski Ben, Raphael David, "Security on Rails"
+Pragmatic Bookshelf | 2009 | ISBN: 1934356484 | 304 pages | PDF | 5,5 MB 
+
+
+Giovanni Sakti, Hafiz Badrie Lubis and Nia Mutiara, "Learning Devise for Rails"
+English | ISBN: 1782167048 | 2013 | 104 pages | PDF | 3 MB 
+https://nitroflare.com/view/3C047B2ADC78410/1782167048Devise.pdf
+
+Growing Rails Applications in Practice By Henning Koch, Thomas Eisenbarth
+2014 | 88 Pages | ISBN: n/a , ASIN: n/a | EPUB, MOBI, PDF | 1 MB + 3 MB + 7 MB
+http://www.nitroflare.com/view/1657981E08D71A4/0000000000_Growing.epub
+http://www.nitroflare.com/view/69299323E9005CD/0000000000_Growing.pdf
+
+
